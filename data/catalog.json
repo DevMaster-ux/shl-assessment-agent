@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "test_type": "K",
+    "description": "Multi-choice test that measures Java class design, exceptions, generics, collections, concurrency, JDBC and Java I/O fundamentals.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "Java developer programming backend stakeholder technical coding knowledge skills"
+  },
+  {
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "test_type": "K",
+    "description": "Multi-choice test that measures knowledge of Java frameworks including Struts, Hibernate and Spring.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "Java Spring Hibernate Struts backend framework developer technical skills"
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "test_type": "K",
+    "description": "Measures knowledge of basic Java constructs, OOP concepts, files, exception handling, threads, generic class and inner class.",
+    "job_levels": ["Entry-Level", "Graduate"],
+    "languages": ["English (USA)"],
+    "raw_text": "entry level junior graduate Java developer coding OOP"
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_type": "K",
+    "description": "Measures advanced Java knowledge including constructs, OOP, files and programming fundamentals.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "advanced senior Java developer backend OOP technical coding"
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/restful-web-services-new/",
+    "test_type": "K",
+    "description": "Measures knowledge of REST features, architecture, requests, responses, entity translation, security, filters and interceptors.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "REST API backend Java web services developer technical skills"
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "test_type": "K",
+    "description": "Measures SQL database query knowledge.",
+    "job_levels": ["Entry-Level", "Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "SQL database queries data developer analyst"
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "test_type": "K",
+    "description": "Measures Python programming knowledge.",
+    "job_levels": ["Entry-Level", "Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "Python developer programming automation coding"
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "test_type": "K",
+    "description": "Measures JavaScript programming knowledge.",
+    "job_levels": ["Entry-Level", "Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "JavaScript frontend developer web programming"
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/",
+    "test_type": "K",
+    "description": "Measures Angular development knowledge.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "Angular frontend web developer JavaScript"
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "test_type": "K",
+    "description": "Measures AWS development knowledge.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "AWS cloud developer backend deployment"
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "test_type": "K",
+    "description": "Measures Agile software development knowledge.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "languages": ["English (USA)"],
+    "raw_text": "agile scrum software developer stakeholder collaboration"
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": "P",
+    "description": "The OPQ32 measures workplace behavioural style and provides a framework for understanding the impact of personality on job performance.",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager", "Director", "Executive"],
+    "languages": ["English International", "English (USA)"],
+    "raw_text": "OPQ personality behavior behaviour workplace style stakeholder collaboration leadership"
+  },
+  {
+    "name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report/",
+    "test_type": "P",
+    "description": "OPQ report based on the Universal Competency framework outlining likely impact of personality on competencies.",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager", "Director", "Executive"],
+    "languages": ["English International", "English (USA)"],
+    "raw_text": "OPQ personality competency stakeholder teamwork leadership"
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "test_type": "P",
+    "description": "OPQ report providing analysis of leadership potential based on SHL's Leadership Model.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor", "Manager", "Director", "Executive"],
+    "languages": ["English International", "English (USA)"],
+    "raw_text": "OPQ leadership personality manager lead behavior"
+  },
+  {
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "test_type": "P",
+    "description": "OPQ report based on team types and leadership/reporting styles.",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager", "Director", "Executive"],
+    "languages": ["English International", "English (USA)"],
+    "raw_text": "OPQ team leadership style personality collaboration stakeholder"
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "test_type": "A",
+    "description": "Measures ability to derive numerical problems, calculate answers, and work with numerical data in workplace contexts.",
+    "job_levels": ["Entry-Level", "Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "languages": ["English International", "English (USA)"],
+    "raw_text": "numerical ability cognitive reasoning data analysis"
+  },
+  {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "test_type": "A",
+    "description": "Measures ability to read written passages, comprehend text, interpret tone, identify main ideas, and predict author responses.",
+    "job_levels": ["Entry-Level", "Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "languages": ["English International", "English (USA)"],
+    "raw_text": "verbal ability cognitive communication stakeholder comprehension"
+  },
+  {
+    "name": "Verify - Technical Checking - Next Generation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "test_type": "A",
+    "description": "Measures perceptual speed and accuracy by matching symbols and switches based on rules.",
+    "job_levels": ["Entry-Level"],
+    "languages": ["English International", "English (USA)"],
+    "raw_text": "technical checking accuracy cognitive ability"
+  },
+  {
+    "name": "Verify - General Ability Screen",
+    "url": "https://www.shl.com/c/global/ibm-kenexa-catalog/view/34470-verify-general-ability-screen/",
+    "test_type": "A",
+    "description": "Measures general cognitive ability for screening, including numerical, verbal, deductive and abstract reasoning.",
+    "job_levels": ["Entry-Level"],
+    "languages": ["English International", "English (USA)"],
+    "raw_text": "GSA general ability screen cognitive reasoning numerical verbal deductive abstract"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "test_type": "A E B C D P",
+    "description": "Assesses broad workplace skills and development areas.",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "languages": ["English International", "English (USA)"],
+    "raw_text": "global skills assessment GSA workplace behavior competency development"
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "test_type": "K",
+    "description": "Measures speed and accuracy at typing text and numbers into forms.",
+    "job_levels": ["Entry-Level", "Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "data entry typing accuracy admin clerical"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "test_type": "K",
+    "description": "Measures accounts payable knowledge.",
+    "job_levels": ["Entry-Level", "Mid-Professional"],
+    "languages": ["English (USA)"],
+    "raw_text": "accounts payable accounting finance knowledge"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "test_type": "K",
+    "description": "Measures accounts receivable knowledge.",
+    "job_levels": ["Entry-Level", "Mid-Professional"],
+    "languages": ["English (USA)"],
+    "raw_text": "accounts receivable accounting finance knowledge"
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/",
+    "test_type": "K",
+    "description": "Measures Adobe Photoshop CC knowledge.",
+    "job_levels": ["Entry-Level", "Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "photoshop adobe design creative"
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ai-skills/",
+    "test_type": "P",
+    "description": "Assesses AI-related workplace skill orientation.",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor"],
+    "languages": ["English (USA)"],
+    "raw_text": "AI artificial intelligence skills technology"
+  }
+]

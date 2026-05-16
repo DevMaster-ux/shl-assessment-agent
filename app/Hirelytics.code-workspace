@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/Hirelytics"
+		},
+		{
+			"path": "../../../Desktop/hirelytics-backend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hirelytics"
+	}
+}
